@@ -1,6 +1,5 @@
 # Purge-Twitter-Faves
 ======
-
 How to use
 ------------
 Get your developer keys at https://dev.twitter.com. Copy and paste them into favorite_purge.py.
