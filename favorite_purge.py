@@ -11,6 +11,7 @@ access_token='your access token here',
 access_token_secret='enter token secret here'
 )
 
+# Enter your username here.
 user = "@your_username"
 
 auth = tweepy.OAuthHandler(keys['consumer_key'], keys['consumer_secret'])
