@@ -1,4 +1,4 @@
-# Purge-Twitter-Faves
+# Purge Twitter Faves
 ======
 How to use
 ------------
